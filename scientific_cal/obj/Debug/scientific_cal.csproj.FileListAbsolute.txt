@@ -1,0 +1,10 @@
+C:\Users\iamha\source\repos\scientific_cal\bin\Debug\scientific_cal.exe.config
+C:\Users\iamha\source\repos\scientific_cal\bin\Debug\scientific_cal.exe
+C:\Users\iamha\source\repos\scientific_cal\bin\Debug\scientific_cal.pdb
+C:\Users\iamha\source\repos\scientific_cal\obj\Debug\scientific_cal.csproj.AssemblyReference.cache
+C:\Users\iamha\source\repos\scientific_cal\obj\Debug\scientific_cal.calculator.resources
+C:\Users\iamha\source\repos\scientific_cal\obj\Debug\scientific_cal.Properties.Resources.resources
+C:\Users\iamha\source\repos\scientific_cal\obj\Debug\scientific_cal.csproj.GenerateResource.cache
+C:\Users\iamha\source\repos\scientific_cal\obj\Debug\scientific_cal.csproj.CoreCompileInputs.cache
+C:\Users\iamha\source\repos\scientific_cal\obj\Debug\scientific_cal.exe
+C:\Users\iamha\source\repos\scientific_cal\obj\Debug\scientific_cal.pdb
